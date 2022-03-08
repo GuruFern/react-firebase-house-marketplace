@@ -2,12 +2,13 @@
 
 This is a House Marketplace React application that allows users to sign up and create listings for properties that they have for rent or sale.
 
-The application uses Firebase v9 to authenticate and store users and to store listing details and images. The application also uses Leaflet to generate a map of the location of the listing and Swiper to create a carousel of the latest properties posted on the home page.
+The application uses Firebase v9 to authenticate and store users and to store listing details and images. The application also uses React Toastify to generate success and error messages, Leaflet to generate a map of the location of the listing, and Swiper to create a carousel of the latest properties posted on the home page.
 
 ### Technology
 
 - React
 - Firebase v9
+- React Toastify
 - Leaflet
 - Swiper
 
